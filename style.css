@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav{
+    height: 60px;
+    background-color: #0f1111;
+}
+
+#logo{
+    font-size: 25px;
+    color: #f08804;
+    text-decoration: none;
+}
+
+a{
+    margin-right: 200px;
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color: #f08804;
+    color: white;
+}
+
+.Content_div{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+#content{
+    height: 545px;
+}
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
